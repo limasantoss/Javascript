@@ -4,7 +4,7 @@ value = 1
 console.log(value)
 
 
-value -=2
+value +=2
 console.log(value)
 
 
@@ -21,5 +21,3 @@ console.log(value)
 value **=2
 console.log(value)
 
-value %=2
-console.log(value)
